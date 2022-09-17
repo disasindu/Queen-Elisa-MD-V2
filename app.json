@@ -1,8 +1,8 @@
 {
-  "name": "QUEEN ELISA BOT 2.2.0 V",
+  "name": "QUEEN ELISA BOT 2.2.0 V DILSHAN 💝",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/DarkMakerofc/Queen-Elisa-MD",
-  "logo": "https://i.ibb.co/ZWctf3M/Queen-Elisa-Git-Lo-Go.jpg",
+  "logo": "https://i.ibb.co/12xWWXF/null-20220914-WA0119.jpg",
   "keywords": ["nodejs", "simple whatsapp bot","whatsapp"],
 
   "env": {
@@ -20,7 +20,7 @@
 "OWNER_NUMBER" :{
   "description" : "OWNER NUMBER",
   "required" : false,
-  "value" :"94715166712"
+  "value" :"94762517411"
   },
 
  "ALIVE_MESSAGE" :{
@@ -32,7 +32,9 @@
 "CAPTION" :{
   "description" : "YOUR CAPTION",
   "requred" : false,
-  "value" : "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰"
+  "value" : "© DILSHAN SASINDU BOT 📥 
+
+"
   },
   
   "SEND_WELCOME_MASSAGE" :{
@@ -56,31 +58,31 @@
   "BOT_NAME" :{
   "description" : "YOUR BOT NAME",
   "requred" : false,
-  "value" :"𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐕2"
+  "value" :"DILSHAN SASINDU BOT 😈"
   },
 
   "OWNER_NAME" :{
   "description" : "YOUR NAME",
   "requred" : false,
-  "value" :"ＭＲ ＮＩＭＡ"
+  "value" :"MR DILSHAN "
   },
 
   "STICKER_PACK_NAME" :{
   "description" : "STICKER PACKAGE NAME",
   "requred" : true,
-  "value" :"𝙌𝙪𝙚𝙚𝙣 𝙀𝙡𝙞𝙨𝙖 𝙑2"
+  "value" :"DILSHAN BOT v2 😈"
   },
 
   "STICKER_AUTHOR_NAME" :{
   "description" : "STICKER AUTHOR NAME",
   "requred" : true,
-  "value" :"ＭＲ.ＮＩＭＡ ＯＦＣ"
+  "value" :"MR DILSHAN 💝"
   },
 
   "ALIVE_LOGO" :{
   "description" : "YOUR BOT ALIVE LOGO GET YOUR LINK UPLOAD imgbb.com WEB SITE ",
   "requred" : true,
-  "value" :"https://telegra.ph/file/1a2dee71baa975091620d.jpg"
+  "value" :"https://i.ibb.co/12xWWXF/null-20220914-WA0119.jpg"
   },
 
   "WELCOME_MSG" :{
@@ -104,7 +106,7 @@
   "ADMIN_MSG" :{
   "description" : "ADMIN ONLY MASSAGE",
   "requred" : true,
-  "value" :"This command is admin only command"
+  "value" :"This command is admin only command...🔑"
   },
 
   "WAIT_MSG" :{
@@ -134,7 +136,7 @@
   "INBOX_BLOCK" :{
   "description" : "BLOCK INBOX USERS [ on / off ]",
   "requred" : true,
-  "value" :"off"
+  "value" :"on"
   },
 
   "AUTO_REACT" :{
